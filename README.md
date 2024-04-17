@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guiomar Valderrama</h1>
 <h3 align="center">Backend developer, product captivated</h3>
 
-- 🌱 I’m currently learning **GraphQL, and better testing practices**
+- 🌱 I’m currently learning **type hinting with Python, and better testing practices**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/gdvalderrama?tab=repositories)
 
